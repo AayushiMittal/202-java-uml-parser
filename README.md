@@ -25,7 +25,12 @@ Graphviz: Installation instructions - http://plantuml.com/graphvizdot.html
 Install Graphviz for Windows  http://www.graphviz.org/Download_windows.php
 Install Graphviz for mac  http://www.graphviz.org/Download_macos.php
 
-To run the code after installing the necessary software mentioned above download the entire folder of AayushiParser given in the google shared folder at : https://drive.google.com/open?id=0BzDoewIftFsoWF9IMzhpNFk3ZjQ
+To run the code after installing the necessary software mentioned above download the entire folder of AayushiParser given in the google shared folder at :(Both)
+
+https://drive.google.com/drive/folders/0BzDoewIftFsoZS1zUkpaMHpLZkk?usp=sharing
+
+https://drive.google.com/open?id=0BzDoewIftFsoWF9IMzhpNFk3ZjQ
+
 
 --> Open cmd to that location and type the following coomand for reference (Make sure all the files our in one folder including jar file and testcases)
 
